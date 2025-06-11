@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "gh-pages": "^6.3.0"
-=======
   "name": "edu-desk",
   "private": true,
   "version": "0.0.0",
@@ -31,6 +27,5 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5"
->>>>>>> 4be14df786566168ee3c4b797f08b006ced2afb4
   }
 }
